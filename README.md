@@ -1,4 +1,4 @@
-# 📱 Calculadora Asombrosa
+# 📱 Calculadora
 
 ¡Bienvenido a la Calculadora Asombrosa! 🎉 Este proyecto es una calculadora moderna y atractiva hecha con HTML, CSS y JavaScript. Con un diseño centrado y elegante, esta calculadora no solo realiza cálculos básicos sino que también guarda un historial de operaciones, permitiendo etiquetar cada entrada para una referencia fácil.
 
