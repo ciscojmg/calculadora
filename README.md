@@ -58,4 +58,4 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE
 
 ## ✨ Demo en Vivo
 
-Puedes ver la calculadora en acción aquí: [Calculadora Asombrosa en GitHub Pages](https://ciscojmg.github.io/calculadora/)
+Puedes ver la calculadora en acción aquí: [Calculadora](https://ciscojmg.github.io/calculadora/)
