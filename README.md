@@ -13,7 +13,7 @@
 
 ## 🎨 Capturas de Pantalla
 
-![Calculadora](https://user-images.com/calculadora.png)  <!-- Reemplaza con tu imagen real -->
+![Calculadora](https://github.com/ciscojmg/calculadora/blob/master/img/calculadora.png)
 
 ## 🛠️ Tecnologías Utilizadas
 
